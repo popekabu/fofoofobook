@@ -1,1 +1,3 @@
-# Flutter Facebook Responsive UI Starter Project
+# flutter_facebook
+
+An Facebook Clone done with Flutter .
